@@ -1,5 +1,8 @@
 # 🔐 21 Savage Fan Site — Authentication & Message Board
 
+<img width="1269" height="599" alt="21 savage auth SS" src="https://github.com/user-attachments/assets/3786d502-ab74-4abd-ae24-3dc0d010c848" />
+
+
 ### Full-Stack Node.js Application
 
 ## About the Project
@@ -82,7 +85,7 @@ One of the biggest things I practiced was understanding how authentication and d
 
 ## Current Limitations
 
-This is a bootcamp learning project, and there are still improvements I would make:
+This is a learning project, and there are still improvements I would make:
 
 - Fix the dislike logic so it updates a separate negative-vote counter.
 - Use MongoDB ObjectIds to identify messages instead of matching their text.
@@ -93,4 +96,4 @@ This is a bootcamp learning project, and there are still improvements I would ma
 
 ## Acknowledgments
 
-The authentication structure was adapted from a Scotch.io authentication tutorial. I customized it by adding message-board functionality and interactions with MongoDB.
+The authentication structure was adapted from a boiler plate, my job was to make sure the log in functioned 
